@@ -1,1 +1,2 @@
-# fact-checking
+# Automated fact checking
+
