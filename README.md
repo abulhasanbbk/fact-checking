@@ -11,7 +11,9 @@ fact-checking is consisted of three stages as outlined by [[1]](#2):
 ## Datasets
 FEVER shared task was first organised in 2018. Since then there have been 7 workshops and the latest one is going to be co-located with EMNLP 2024. The dataset website is in https://fever.ai/. The latest workshop dataset is called AVeriTeC [[2]](#2) which is fundamentally different from other datasets. It genarates questions for claims, questions and answer pairs from evidences, and then use them for fact classiification. In addition it expects to genarate explaination. One the otherhand, the HealthFC [[3]](#3) dataset is similar to FEVER dataset, but the claims were originally written in German and later translated in English. 
 # Meeting 03/06/2024
-- 
+- We will be experimenting using LLAMA3 and Mistral on the AveiTec dataset and other datasets to create a baseline.
+- The propmpting idea is discussed (Iterative QA).
+- Mark wants to see a pipeline block diagram. 
 ## References
 <a id="1">[1]</a>Guo Z, Schlichtkrull MS, Vlachos A. A Survey on Automated Fact-Checking. Transactions of the Association for Computational Linguistics. 2022 Feb 9;10:178-206.
 
