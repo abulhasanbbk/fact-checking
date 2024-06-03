@@ -9,7 +9,7 @@ fact-checking is consisted of three stages as outlined by [[1]](#2):
 (iii) claim verification to assess the veracity of the claim based on the retrieved evidence. 
 
 ## Datasets
-FEVER shared task was first organised in 2018. Since then there has been 7 workshop and the latest one is going to be co-located with EMNLP 2024. The dataset website is in \url{https://fever.ai/}. 
+FEVER shared task was first organised in 2018. Since then there has been 7 workshop and the latest one is going to be co-located with EMNLP 2024. The dataset website is in https://fever.ai/. 
 
 ## References
 <a id="1">[1]</a>Guo Z, Schlichtkrull MS, Vlachos A. A Survey on Automated Fact-Checking. Transactions of the Association for Computational Linguistics. 2022 Feb 9;10:178-206.
