@@ -9,9 +9,11 @@ fact-checking is consisted of three stages as outlined by [[1]](#2):
 (iii) claim verification to assess the veracity of the claim based on the retrieved evidence. 
 
 ## Datasets
-FEVER shared task was first organised in 2018. Since then there have been 7 workshops and the latest one is going to be co-located with EMNLP 2024. The dataset website is in https://fever.ai/. The latest workshop dataset is called AVeriTeC [[2]](#2) which is fundamentally different from other dataset. It geenrates questions for claims, questions and answer pairs from evidences, and then use them for fact classiification. In addition it expects to geenrate explaination.  
+FEVER shared task was first organised in 2018. Since then there have been 7 workshops and the latest one is going to be co-located with EMNLP 2024. The dataset website is in https://fever.ai/. The latest workshop dataset is called AVeriTeC [[2]](#2) which is fundamentally different from other datasets. It geenrates questions for claims, questions and answer pairs from evidences, and then use them for fact classiification. In addition it expects to geenrate explaination. One the otherhand, the HealthFC [[3]](#3) dataset is similar to FEVER dataset, but the claims were originally written in German and later translated in English. 
 
 ## References
 <a id="1">[1]</a>Guo Z, Schlichtkrull MS, Vlachos A. A Survey on Automated Fact-Checking. Transactions of the Association for Computational Linguistics. 2022 Feb 9;10:178-206.
 
 <a id="2">[2]</a>Schlichtkrull, M., Guo, Z. and Vlachos, A., 2024. Averitec: A dataset for real-world claim verification with evidence from the web. Advances in Neural Information Processing Systems, 36.
+
+<a id="3">[3]</a>Vladika, J., Schneider, P. and Matthes, F., 2024, May. HealthFC: Verifying Health Claims with Evidence-Based Medical Fact-Checking. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 8095-8107).
