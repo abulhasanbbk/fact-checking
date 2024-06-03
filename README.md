@@ -13,4 +13,4 @@ FEVER shared task was first organised in 2018. Since then there have been 7 work
 
 ## References
 <a id="1">[1]</a>Guo Z, Schlichtkrull MS, Vlachos A. A Survey on Automated Fact-Checking. Transactions of the Association for Computational Linguistics. 2022 Feb 9;10:178-206.
-<a id="2"[2]></a>Schlichtkrull, M., Guo, Z. and Vlachos, A., 2024. Averitec: A dataset for real-world claim verification with evidence from the web. Advances in Neural Information Processing Systems, 36.
+<a id="2">[2]></a>Schlichtkrull, M., Guo, Z. and Vlachos, A., 2024. Averitec: A dataset for real-world claim verification with evidence from the web. Advances in Neural Information Processing Systems, 36.
