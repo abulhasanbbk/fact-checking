@@ -70,13 +70,13 @@ GPT4o:Yes
 
 GPT4o: Yes
 
-# Meeting 10/06/2024
+# Meeting minutes 10/06/2024
 1. Ask the Language model to break the claims into sub claims.
 2. For each claim ask GPT to geenrate evidence
-3. Then for each claim and eveidence ask GPT4 to say refute/approve.
+3. Then for each claim and eveidence ask GPT4 to say refute/supported.
 4. We can get evidences in terms of probablities.
-5. Mark mentioned about 3 valued logic that could be used to claasifying GPT responses
-6. There is an underlying idea that we can create structured programs for GOT models.
+5. Mark mentioned about 3 valued logic that could be used to claasify GPT responses. (Eg. Say we ask q1: capital of UK? and get a1: paris., Then q2 is, q2: capital of uk given paris, and g2 a2: london, then q3 is, q3: capital of uk given paris and london, and so on. All answers are taken as answers in a 3-logic. 
+6. There is an underlying idea that we can create structured programs for prompting LLMS.
 
 ## References
 <a id="1">[1]</a>Guo Z, Schlichtkrull MS, Vlachos A. A Survey on Automated Fact-Checking. Transactions of the Association for Computational Linguistics. 2022 Feb 9;10:178-206.
