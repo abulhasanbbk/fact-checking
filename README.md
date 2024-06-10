@@ -70,6 +70,14 @@ GPT4o:Yes
 
 GPT4o: Yes
 
+# Meeting 10/06/2024
+1. Ask the Language model to break the claims into sub claims.
+2. For each claim ask GPT to geenrate evidence
+3. Then for each claim and eveidence ask GPT4 to say refute/approve.
+4. We can get evidences in terms of probablities.
+5. Mark mentioned about 3 valued logic that could be used to claasifying GPT responses
+6. There is an underlying idea that we can create structured programs for GOT models.
+
 ## References
 <a id="1">[1]</a>Guo Z, Schlichtkrull MS, Vlachos A. A Survey on Automated Fact-Checking. Transactions of the Association for Computational Linguistics. 2022 Feb 9;10:178-206.
 
