@@ -15,7 +15,7 @@ FEVER shared task was first organised in 2018. Since then there have been 7 work
 - The propmpting idea is discussed (Iterative QA).
 - Mark wants to see a pipeline block diagram.
 # Experiment 10/06/2024
-## O Short Experiment with GPT4o on AveriTec dataset
+## O Shot Experiment with GPT4o on AveriTec dataset
 ### Example1
 You are an experienced fact checker. I will give you a claim. Can you label the claim where it is supported or refuted? 
 
