@@ -13,7 +13,19 @@ FEVER shared task was first organised in 2018. Since then there have been 7 work
 # Meeting 03/06/2024
 - We will be experimenting using LLAMA3 and Mistral on the AveiTec dataset and other datasets to create a baseline.
 - The propmpting idea is discussed (Iterative QA).
-- Mark wants to see a pipeline block diagram. 
+- Mark wants to see a pipeline block diagram.
+## Experiment with GPT4o on AveriTec dataset
+### Example1
+You are an experienced fact checker. I will give you a claim. Can you label the claim where it is supported or refuted? 
+
+Claim: In a letter to Steve Jobs, Sean Connery refused to appear in an apple commercial. 
+
+Label:?
+#### Answer
+The claim that Sean Connery refused to appear in an Apple commercial in a letter to Steve Jobs is false. The purported letter is a fabrication that originated from a satirical website called Scoopertino, known for publishing fictional stories about Apple. This fake letter first gained attention in 2011 and has resurfaced periodically, especially following Connery's death in 2020​ (Check Your Fact)​​ (PolitiFact)​​ (HT Tech)​.
+
+Thus, the claim is refuted.
+
 ## References
 <a id="1">[1]</a>Guo Z, Schlichtkrull MS, Vlachos A. A Survey on Automated Fact-Checking. Transactions of the Association for Computational Linguistics. 2022 Feb 9;10:178-206.
 
