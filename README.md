@@ -58,10 +58,13 @@ Thus, the claim is supported.
 
 ### Experiment-2: Asking to provide Evidence
 1. Does the following claim has evidence?  "The purported letter, which allegedly contains a harsh rejection from Connery to Jobs, is a fabrication". Please say yes or no
+
 GPT4o: Yes
 2. Does the following claim has evidence?  "The purported letter is a fabrication that originated from a satirical website called Scoopertino, known for publishing fictional stories about Apple." Please say yes or no
+
 GPT4o:Yes
 3. Does the following claim has evidence? "This fake letter first gained attention in 2011 and has resurfaced periodically, especially following Connery's death in 2020​ (Check Your Fact)​​ (PolitiFact)​​ (HT Tech)​. Please say yes or no
+
 GPT4o: Yes
 
 ## References
