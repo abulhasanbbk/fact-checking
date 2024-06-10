@@ -25,6 +25,23 @@ Label:?
 The claim that Sean Connery refused to appear in an Apple commercial in a letter to Steve Jobs is false. The purported letter is a fabrication that originated from a satirical website called Scoopertino, known for publishing fictional stories about Apple. This fake letter first gained attention in 2011 and has resurfaced periodically, especially following Connery's death in 2020​ (Check Your Fact)​​ (PolitiFact)​​ (HT Tech)​.
 
 Thus, the claim is refuted.
+### Example 2
+You are an experienced fact checker. I will give you a claim. Can you label the claim where it is supported or refuted? Claim: More than 225,000 people dead, 225,000. The estimates are, if we\u2019d have acted responsibly, there\u2019d be 160,000 fewer dead than there are today, because of covid-19.
+
+Label:?
+#### Answer
+Searched 5 sites
+
+The claim that "More than 225,000 people dead, 225,000. The estimates are, if we’d have acted responsibly, there’d be 160,000 fewer dead than there are today, because of COVID-19" is mostly supported by available evidence.
+
+As of late October 2020, the COVID-19 death toll in the United States had indeed surpassed 225,000. This figure aligns with data from sources tracking the pandemic's impact, such as the CDC and other health organizations.
+
+The part of the claim stating that 160,000 fewer deaths could have occurred if different actions were taken is more complex. This estimate is based on various models and expert opinions regarding the effectiveness of earlier interventions such as widespread mask-wearing, social distancing, and timely lockdowns. For instance, some studies and public health experts, including those from institutions like the CDC and NIH, suggested that consistent adherence to preventive measures could have significantly reduced the death toll.
+
+However, specific figures like the 160,000 fewer deaths are projections and carry some uncertainty. The precise number can vary based on different models and assumptions about the effectiveness and timing of interventions.
+
+Thus, the claim is supported in terms of the actual death toll, and it is plausible but not definitively certain regarding the exact number of preventable deaths based on responsible actions​ (Rev)​​ (Our World in Data)​​ (Wikipedia)​​ (The White House)​.
+
 
 ## References
 <a id="1">[1]</a>Guo Z, Schlichtkrull MS, Vlachos A. A Survey on Automated Fact-Checking. Transactions of the Association for Computational Linguistics. 2022 Feb 9;10:178-206.
