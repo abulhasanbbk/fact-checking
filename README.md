@@ -42,6 +42,20 @@ However, specific figures like the 160,000 fewer deaths are projections and carr
 
 Thus, the claim is supported in terms of the actual death toll, and it is plausible but not definitively certain regarding the exact number of preventable deaths based on responsible actions​ (Rev)​​ (Our World in Data)​​ (Wikipedia)​​ (The White House)​.
 
+### Example 3
+You are an experienced fact checker. I will give you a claim. Can you label the claim where it is supported or refuted? Claim: Why should you pay more taxes than Donald Trump pays? And that\u2019s a fact. $750. Remember what he said when that was raised a while ago, how he only pays \u2026 He said, \u2018Because I\u2019m smart. I know how to game the system.\u2019 
+
+Label:?
+
+#### Answer
+Searched 5 sites
+
+The claim that Donald Trump paid only $750 in federal income taxes in 2016 and 2017, and that he attributed this to being "smart" for knowing how to game the system, is supported by credible reports.
+
+According to an investigation by The New York Times, Donald Trump indeed paid $750 in federal income taxes in both 2016 and 2017. Additionally, the report revealed that he paid no federal income taxes in 10 of the previous 15 years due to significant business losses and various tax avoidance strategies. This information has been corroborated by multiple sources, including PolitiFact and Business Insider, which detail the aggressive tax strategies Trump used to minimize his tax liabilities​ (PolitiFact)​​ (PolitiFact)​​ (PolitiFact)​​ (Logically Facts)​.
+
+Thus, the claim is supported.
+
 
 ## References
 <a id="1">[1]</a>Guo Z, Schlichtkrull MS, Vlachos A. A Survey on Automated Fact-Checking. Transactions of the Association for Computational Linguistics. 2022 Feb 9;10:178-206.
